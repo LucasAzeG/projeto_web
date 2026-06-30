@@ -16,7 +16,7 @@ p {
     font-family: Helvetica;
     text-align: justify;
     line-height: 35px;
-    color: #0bc938;
+    color: #000000;
 }
 
 #paragrafo01 {
@@ -37,5 +37,5 @@ p {
 
 .parag_especial {
     text-decoration: line-through;
-    background-color: #3f3fe1;
+    background-color: #ecfc0c;
 }
